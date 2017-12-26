@@ -1032,7 +1032,7 @@ HEADER TWO
     vertical-align: middle;
 }
 .headertwo .home_navigation {
-    background: none;
+    background: #000000;
     border-top: 1px solid #eee;
 }
 .headertwo .home_navigation .inner_home::after, 
